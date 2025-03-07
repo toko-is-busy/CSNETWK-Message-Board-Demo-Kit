@@ -1,0 +1,18 @@
+python3 server.py
+
+python3 client.py
+/?
+/join 127.0.0.1 12345
+/register Alice
+
+python3 client.py
+/?
+/join 127.0.0.1 12345
+/register Bob
+
+python3 client.py
+/?
+/join 127.0.0.1 12345
+/register Charlie
+
+/all wassup
