@@ -1,7 +1,7 @@
 📨 CSNETWK: Message Board Demo Kit
 =================================
 
-A Python-based UDP messaging application built as a machine project for the CSNETWK course at De La Salle University. This project simulates a simple yet interactive message board system that supports server-client architecture, real-time broadcast and private messaging, and basic user command handling.
+A Python-based UDP messaging application built as a project for the CSNETWK course at De La Salle University. This project simulates a simple yet interactive message board system that supports server-client architecture, real-time broadcast and private messaging, and basic user command handling.
 
 📌 Features
 -----------
